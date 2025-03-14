@@ -1,4 +1,12 @@
-Dit is onze school project (。・∀・)ノ
+# Arcade Mechancics School Project 2025
 
+<<<<<<< HEAD
 *This is our school project. (。・∀・)ノ*
     
+=======
+Gemaakt door J.J. en Adem
+
+Dit is onze school project (。・∀・)ノ[^1]
+
+[^1]: This is our school project. (。・∀・)ノ
+>>>>>>> 86da535dac0091d85e26179b86b5508e87ebbd96
