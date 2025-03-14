@@ -2,6 +2,6 @@
 
 Gemaakt door J.J. en Adem
 
-Dit is onze school project (。・∀・)ノ[^*]
+Dit is onze school project (。・∀・)ノ[^1]
 
-[^*]: This is our school project. (。・∀・)ノ
+[^1]: This is our school project. (。・∀・)ノ
