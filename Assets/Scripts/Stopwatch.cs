@@ -32,8 +32,22 @@ public class Stopwatch : MonoBehaviour
             elapsedTime += Time.deltaTime;
             UpdateTimerDisplay();
         }
-    }
 
+        //Resume Timer
+
+        if (Input.GetKey(KeyCode.T))
+        {
+            StartStopwatch();
+        }
+
+        //Stop Timer
+
+        if (Input.GetKey(KeyCode.Y))
+        {
+            StopStopwatch();
+        }
+    }
+    
     public void StartStopwatch()
     {
         isRunning = true;
