@@ -40,11 +40,11 @@ public class Movement : MonoBehaviour
 
         }
 
-        //float mouseX = Input.GetAxis("Mouse X");
-        //float mouseY = Input.GetAxis("Mouse Y");
+        float mouseX = Input.GetAxis("Mouse X");
+        float mouseY = Input.GetAxis("Mouse Y");
 
-        //transform.Rotate(0, mouseX * sensitivity, 0);
-        //cameraFocus.transform.Rotate(-mouseY * sensitivity, 0, 0);
+        transform.Rotate(0, mouseX * sensitivity, 0);
+        // cameraFocus.transform.Rotate(-mouseY * sensitivity, 0, 0);
 
     }
 }
