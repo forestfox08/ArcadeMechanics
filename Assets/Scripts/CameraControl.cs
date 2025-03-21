@@ -31,8 +31,9 @@ public class CameraControl : MonoBehaviour
 
         if (Input.GetKeyUp(KeyCode.V))
         {
-            SwitchCameras();
+            //SwitchCameras();
         }
+
         void SwitchCameras()
         {
             if (MainCamera.gameObject.activeSelf)
