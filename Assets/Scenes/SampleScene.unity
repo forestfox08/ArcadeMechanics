@@ -10517,7 +10517,7 @@ MonoBehaviour:
   runSpeed: 12
   jumpPower: 7
   gravity: 10
-  lookSpeed: 3
+  lookSpeed: 1.5
   lookXLimit: 45
   defaultHeight: 2
   crouchHeight: 1
